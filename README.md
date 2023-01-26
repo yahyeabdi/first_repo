@@ -1,4 +1,3 @@
 # first_repo
-for practices
-
+for practices only
 ##project notes
